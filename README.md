@@ -4,6 +4,9 @@ SleepyCrow RF is a **modded Evil Crow RF** device.
 This project improves upon the original design by adding new features, better stability, and optimized circuitry.  
 It is ideal for hobbyists, researchers, and anyone interested in RF experimentation.
 
+
+⚠️Is not tested yet! Help me to troubleshoot everything! If you find any mistakes - text me on discord: sleepymorph⚠️
+
 ---
 
 ## ⚡ Schematics
